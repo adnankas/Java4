@@ -1,0 +1,14 @@
+.first-part{
+    height: 80hv;
+    background-image: url('UBT-LOGO.png');
+}
+
+.first-part shade{
+    background-color: blue;
+    opacity: 0.4;
+}
+
+#p3{
+    text-align: center;
+    margin-bottom: none;
+}
